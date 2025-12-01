@@ -10,5 +10,5 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.0.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.0.0)
+## [v0.0.1](https://github.com/jaywcjlove/deskmark/releases/tag/v0.0.1)
 
