@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img align="right" height="100" alt="Deskmark" src="https://github.com/user-attachments/assets/a2a1ee2b-cd7d-4141-b066-219aa29c0d1b" /> 请尽可能详细地提供您的支持请求或反馈。
+        <img align="right" height="100" alt="Deskmark" src="https://github.com/user-attachments/assets/fbaf1475-acac-4fb6-9268-c19c526b3f2c" /> 请尽可能详细地提供您的支持请求或反馈。
 
         Deskmark 是一款原生 macOS 应用，可在桌面上添加文本和图标水印，方便在录制视频时使用。
 
