@@ -10,4 +10,9 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.1.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.1.0)
+
+1. feat: 新增字体设置
+2. fix: 修复国际化问题
+
 ## [v1.0.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.0.0)
