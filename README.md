@@ -23,6 +23,8 @@
   </p>
 </div>
 
+![](./assets/deskmark.gif)
+
 ![](./assets/screenshots-1.png)
 
 ![](./assets/screenshots-2.png)
