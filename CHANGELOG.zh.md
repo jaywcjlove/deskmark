@@ -10,6 +10,14 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.3.0)
+
+1. 功能：在侧边栏添加启用设置的切换按钮。
+2. 功能：优化字体加载显示效果。
+3. 修复：解决付费解锁验证错误问题。
+4. 修复：修复国际化显示错误。
+5. 性能：禁用侧边栏自动隐藏。
+
 ## [v1.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.2.0)
 
 1. feat: 新增对 jpeg/jpg/svg 的支持

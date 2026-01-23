@@ -10,6 +10,14 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.3.0)
+
+1. feat: Add toggle button for enabling settings in sidebar. 
+2. feat: Improve font loading display. 
+3. fix: Resolve issue with paid unlock verification error. 
+4. fix: Fix internationalization display error. 
+5. perf: disable sidebar auto-hide. 
+
 ## [v1.2.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.2.0)
 
 1. feat: add support for jpeg/jpg/svg
