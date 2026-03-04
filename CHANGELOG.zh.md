@@ -10,6 +10,11 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.4.0)
+
+1. 新增: 添加 ja/de/ko 国际化语言
+2. 修复：Deskmark 窗口无法保持选中状态的问题
+
 ## [v1.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.3.0)
 
 1. 功能：在侧边栏添加启用设置的切换按钮。

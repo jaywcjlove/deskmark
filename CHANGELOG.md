@@ -10,6 +10,11 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.4.0)
+
+1. feat: add ja/de/ko language.
+2. fix: window sometimes not staying selected in Deskmark.
+
 ## [v1.3.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.3.0)
 
 1. feat: Add toggle button for enabling settings in sidebar. 
