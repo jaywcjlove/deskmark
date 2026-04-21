@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS">
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
