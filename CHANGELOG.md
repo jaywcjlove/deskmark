@@ -10,6 +10,11 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.5.0)
+
+1. fix: Fixed about page link error.  
+2. chore: Upgraded payment, improved compatibility and stability.
+
 ## [v1.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.4.0)
 
 1. feat: add ja/de/ko language.

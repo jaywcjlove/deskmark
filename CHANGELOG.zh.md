@@ -10,6 +10,11 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.5.0)
+
+1. fix: 修复关于页面链接错误。
+2. chore: 升级更新支付，提升兼容性与稳定性。
+
 ## [v1.4.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.4.0)
 
 1. 新增: 添加 ja/de/ko 国际化语言
