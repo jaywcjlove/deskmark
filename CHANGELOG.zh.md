@@ -10,6 +10,15 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.6.0)
+
+1. 新增：支持法语、意大利语、俄语和繁体中文。
+2. 新增：支持动态文本、描边/阴影效果及图标大小设置。
+3. 新增：支持布局模式和窗口层级选项。
+4. 新增：支持布局间距、边距、偏移和交错等布局控制。
+5. 优化：字体列表改为懒加载，避免字体选择器卡顿。
+6. 杂项：为 Deskmark 添加 Xcode Cloud 配置清单。
+
 ## [v1.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.5.0)
 
 1. fix: 修复关于页面链接错误。

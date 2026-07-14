@@ -10,6 +10,15 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.6.0)
+
+1. feat: add support for French, Italian, Russian, and Traditional Chinese
+2. feat: add dynamic text, stroke/shadow effects, and icon size customization
+3. feat: add layout modes and window level options
+4. feat: add layout controls for spacing, margins, offsets, and stagger
+5. perf: lazy-load the font family list to avoid picker lag
+6. chore: add Xcode Cloud manifest for Deskmark
+
 ## [v1.5.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.5.0)
 
 1. fix: Fixed about page link error.  
