@@ -10,6 +10,10 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.7.0)
+
+1. feat：支持矩形图标，并保持原始宽高比布局。
+
 ## [v1.6.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.6.0)
 
 1. 新增：支持法语、意大利语、俄语和繁体中文。
