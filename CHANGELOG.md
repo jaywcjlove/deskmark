@@ -10,6 +10,11 @@ Changelog
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.8.0)
+
+1. feat: Add parameter reset button.
+2. fix(ui): explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v1.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.7.0)
 
 1. feat: support rectangular icons with aspect-preserving layout

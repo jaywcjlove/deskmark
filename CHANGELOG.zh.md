@@ -10,6 +10,11 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.8.0)
+
+1. 新增：新增参数重置按钮
+2. 修复：在 macOS 27 及以上系统强制正常显示菜单栏图标符号
+
 ## [v1.7.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.7.0)
 
 1. feat：支持矩形图标，并保持原始宽高比布局。
