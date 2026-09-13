@@ -10,6 +10,11 @@
 <img alt="Deskmark AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.9.0)
+
+1. feat: 更新应用图标
+2. style: 更新我的应用页面样式
+
 ## [v1.8.0](https://github.com/jaywcjlove/deskmark/releases/tag/v1.8.0)
 
 1. 新增：新增参数重置按钮
